@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Biological response to radiation therapy}
+\author{Isha Jagat }
+\date{January 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{INTRODUCTION}
+The body's reaction to DNA and linage. The present perspective on studies of DNA damage and cell cycle response following ionising radiation (IR) and its application in radiation oncology has been greatly influenced by the avalanche of information in cellular biochemistry and molecular biology. When DNA is damaged by IR, mammalian cells respond by activating two critical physiological functions: cell cycle regulation and DNA repair. Most cells have repair pathways that are always active and are controlled by cell cycle checkpoints. The cell must choose between DNA repair and cell death after recognising damaged DNA and assessing the damage. The goal is to protect the genome's integrity. Radiation response to DNA &linage. radiation (IR) and its use in radiation oncology. When DNA is damaged by IR, mammalian cells respond by activating two critical physiological functions: cell cycle regulation and DNA repair. Most cells have repair pathways that are always active and are controlled by cell cycle checkpoints. The cell must choose between DNA repair and cell death after recognising damaged DNA and assessing the damage. The goal is to protect the genome's integrity.
+\section{CELL AND TISSUE RESPONSE TO DOSES ABOVE AND AROUND 1 GY}
+\section{CELL AND TISSUE RESPONSE TO LOW RADIATION DOSES—HRSIIRR}
+\end{document}
